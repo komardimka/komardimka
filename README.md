@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @komardimka
+- 👀 I’m interested in C++ and Java coding
+- 📫 How to reach me: http://t.me/dimka_komar
